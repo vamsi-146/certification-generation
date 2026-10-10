@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+reportlab
+qrcode
+pillow
+streamlit
+httpx
+pytest
+pytest-asyncio
+pandas
+openpyxl
